@@ -3,12 +3,20 @@
     "maps": [
         {
             "name": "Player",
+<<<<<<< Updated upstream:RollABall/Assets/Input/RollABall.inputactions
             "id": "a8f57d34-d932-4b58-b0c2-a7d676805b58",
+=======
+            "id": "b8d9b7e6-2212-4bc1-bae4-b225b6bec863",
+>>>>>>> Stashed changes:RollABall/Assets/input/RollABall.inputactions
             "actions": [
                 {
                     "name": "Move",
                     "type": "Value",
+<<<<<<< Updated upstream:RollABall/Assets/Input/RollABall.inputactions
                     "id": "2d1441a7-d5d8-49bf-96c0-7236fa84efa4",
+=======
+                    "id": "22114b27-8800-4f7d-bec5-f7d31c98f7a6",
+>>>>>>> Stashed changes:RollABall/Assets/input/RollABall.inputactions
                     "expectedControlType": "Vector2",
                     "processors": "",
                     "interactions": "",
@@ -17,7 +25,11 @@
                 {
                     "name": "Look",
                     "type": "Value",
+<<<<<<< Updated upstream:RollABall/Assets/Input/RollABall.inputactions
                     "id": "46b16ef6-295b-4df5-b523-b04edf817922",
+=======
+                    "id": "c27d63b6-c523-4593-a9d4-2e720599fd57",
+>>>>>>> Stashed changes:RollABall/Assets/input/RollABall.inputactions
                     "expectedControlType": "Vector2",
                     "processors": "",
                     "interactions": "",
@@ -26,7 +38,11 @@
                 {
                     "name": "Fire",
                     "type": "Button",
+<<<<<<< Updated upstream:RollABall/Assets/Input/RollABall.inputactions
                     "id": "c91823fb-8322-4204-b93c-174fcb64c5ac",
+=======
+                    "id": "8433e208-4da3-49bc-81d4-4a4507d9f8a8",
+>>>>>>> Stashed changes:RollABall/Assets/input/RollABall.inputactions
                     "expectedControlType": "Button",
                     "processors": "",
                     "interactions": "",
@@ -258,12 +274,20 @@
         },
         {
             "name": "UI",
+<<<<<<< Updated upstream:RollABall/Assets/Input/RollABall.inputactions
             "id": "92a700c3-2f12-4ab5-af2a-2115873828ef",
+=======
+            "id": "e91c167b-e0f2-49de-abba-c569b1ff2f95",
+>>>>>>> Stashed changes:RollABall/Assets/input/RollABall.inputactions
             "actions": [
                 {
                     "name": "Navigate",
                     "type": "PassThrough",
+<<<<<<< Updated upstream:RollABall/Assets/Input/RollABall.inputactions
                     "id": "99e61c36-e35e-4d48-9d5d-cdff232c7d6f",
+=======
+                    "id": "75a5baa1-abdf-4d96-b940-fd34cdfbe57c",
+>>>>>>> Stashed changes:RollABall/Assets/input/RollABall.inputactions
                     "expectedControlType": "Vector2",
                     "processors": "",
                     "interactions": "",
@@ -272,7 +296,11 @@
                 {
                     "name": "Submit",
                     "type": "Button",
+<<<<<<< Updated upstream:RollABall/Assets/Input/RollABall.inputactions
                     "id": "773097d7-a42a-40dc-bbc2-46d0164d0051",
+=======
+                    "id": "52707083-627a-4792-9b0d-7f58de7af222",
+>>>>>>> Stashed changes:RollABall/Assets/input/RollABall.inputactions
                     "expectedControlType": "Button",
                     "processors": "",
                     "interactions": "",
@@ -281,7 +309,11 @@
                 {
                     "name": "Cancel",
                     "type": "Button",
+<<<<<<< Updated upstream:RollABall/Assets/Input/RollABall.inputactions
                     "id": "f3fd27a8-17e6-4450-9a60-fb0e80efc7f6",
+=======
+                    "id": "b34e6aeb-89ea-46fc-babf-90e798e826c1",
+>>>>>>> Stashed changes:RollABall/Assets/input/RollABall.inputactions
                     "expectedControlType": "Button",
                     "processors": "",
                     "interactions": "",
@@ -290,7 +322,11 @@
                 {
                     "name": "Point",
                     "type": "PassThrough",
+<<<<<<< Updated upstream:RollABall/Assets/Input/RollABall.inputactions
                     "id": "9bd93ca8-941a-4ba4-bb06-60b306110e39",
+=======
+                    "id": "c6bbdf4f-72bc-4bf9-8f29-1bc904ed4a7f",
+>>>>>>> Stashed changes:RollABall/Assets/input/RollABall.inputactions
                     "expectedControlType": "Vector2",
                     "processors": "",
                     "interactions": "",
@@ -299,7 +335,11 @@
                 {
                     "name": "Click",
                     "type": "PassThrough",
+<<<<<<< Updated upstream:RollABall/Assets/Input/RollABall.inputactions
                     "id": "236dd9ed-40b8-44c6-8d78-0409f94fe725",
+=======
+                    "id": "4eba61c4-b42f-4b50-a745-962bb6927df9",
+>>>>>>> Stashed changes:RollABall/Assets/input/RollABall.inputactions
                     "expectedControlType": "Button",
                     "processors": "",
                     "interactions": "",
@@ -308,7 +348,11 @@
                 {
                     "name": "ScrollWheel",
                     "type": "PassThrough",
+<<<<<<< Updated upstream:RollABall/Assets/Input/RollABall.inputactions
                     "id": "c4586db0-6a30-4ebd-994e-a439e2e93fae",
+=======
+                    "id": "d9f97546-5dc3-472e-b175-4c7a5126ada7",
+>>>>>>> Stashed changes:RollABall/Assets/input/RollABall.inputactions
                     "expectedControlType": "Vector2",
                     "processors": "",
                     "interactions": "",
@@ -317,7 +361,11 @@
                 {
                     "name": "MiddleClick",
                     "type": "PassThrough",
+<<<<<<< Updated upstream:RollABall/Assets/Input/RollABall.inputactions
                     "id": "6fc49e76-9c90-48dc-9e53-38722e666881",
+=======
+                    "id": "54fe11ea-30f5-4007-8c2d-3972bdc65eab",
+>>>>>>> Stashed changes:RollABall/Assets/input/RollABall.inputactions
                     "expectedControlType": "Button",
                     "processors": "",
                     "interactions": "",
@@ -326,7 +374,11 @@
                 {
                     "name": "RightClick",
                     "type": "PassThrough",
+<<<<<<< Updated upstream:RollABall/Assets/Input/RollABall.inputactions
                     "id": "de2c8dbf-e453-4c51-bb90-204eeeb15eac",
+=======
+                    "id": "169a38b3-1635-42f7-a2a2-1875a5b663a6",
+>>>>>>> Stashed changes:RollABall/Assets/input/RollABall.inputactions
                     "expectedControlType": "Button",
                     "processors": "",
                     "interactions": "",
@@ -335,7 +387,11 @@
                 {
                     "name": "TrackedDevicePosition",
                     "type": "PassThrough",
+<<<<<<< Updated upstream:RollABall/Assets/Input/RollABall.inputactions
                     "id": "a2562f30-cf1a-44ff-a8a3-09dc7af17d04",
+=======
+                    "id": "7be49a77-93ae-4612-81c6-22a8d9375ede",
+>>>>>>> Stashed changes:RollABall/Assets/input/RollABall.inputactions
                     "expectedControlType": "Vector3",
                     "processors": "",
                     "interactions": "",
@@ -344,7 +400,11 @@
                 {
                     "name": "TrackedDeviceOrientation",
                     "type": "PassThrough",
+<<<<<<< Updated upstream:RollABall/Assets/Input/RollABall.inputactions
                     "id": "aae05913-a656-4f4f-b704-7c57717ca077",
+=======
+                    "id": "c19804a2-9d30-42a1-afad-4b3fd06f9932",
+>>>>>>> Stashed changes:RollABall/Assets/input/RollABall.inputactions
                     "expectedControlType": "Quaternion",
                     "processors": "",
                     "interactions": "",
