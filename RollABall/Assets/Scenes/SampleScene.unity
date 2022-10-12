@@ -1544,9 +1544,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3dcd2e0c2ea982b4dbc37ae6911dbab7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 1000
-  scoreText: {fileID: 0}
-  winText: {fileID: 0}
+  speed: 500
+  scoreText: {fileID: 1269937826}
+  winText: {fileID: 1864017958}
+  moveValue: {x: 0, y: 0}
 --- !u!114 &1650649510
 MonoBehaviour:
   m_ObjectHideFlags: 0
