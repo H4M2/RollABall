@@ -15,6 +15,13 @@ public class PlayerController : MonoBehaviour {
     public TextMeshProUGUI winText;
     public Vector2 moveValue ;
 
+    void Start()
+    {
+        count = 0;
+        winText.text = "";
+        SetCountText();
+    }
+
     void OnMove ( InputValue value ) {
         moveValue = value.Get<Vector2>() ;
     }
@@ -22,12 +29,6 @@ public class PlayerController : MonoBehaviour {
     void FixedUpdate () {
         Vector3 movement = new Vector3 (moveValue.x, 0.0f, moveValue.y);
         GetComponent<Rigidbody>().AddForce(movement * speed * Time.fixedDeltaTime);
-    }
-
-    void Start() {
-        count = 0;
-        winText.text = "";
-        SetCountText ();
     }
 
     void Update () {}
